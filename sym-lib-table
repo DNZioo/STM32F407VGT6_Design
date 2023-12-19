@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "usb")(type "KiCad")(uri "D:/academic year3/Kicad/Footprint_library/usb_diy/usb.kicad_sym")(options "")(descr ""))
-)
