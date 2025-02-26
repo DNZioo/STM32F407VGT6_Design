@@ -1,1 +1,1 @@
-Board STM32
+Let's start STM32F407VGT6
